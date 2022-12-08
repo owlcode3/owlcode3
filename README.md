@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owlcode3
+- 👋 Hi, I’m owlcode3
 - 👌 I’m currently working with Vanilla js, React JS, Scss, and Gsap to bring ideas to life
 - 👀 I’m interested in anything web development related
 - 🌱 I’m currently learning Nodejs
